@@ -10,7 +10,6 @@ const projectData = [
         image: "/projects/zkJom.png",
         gitUrl: "https://github.com/adelaide-ng/ethkl-ecowear"
     },
-
 ];
 
 const Projects = () => {

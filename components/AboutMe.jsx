@@ -59,7 +59,7 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">I am currently a second-year student pursuing a degree in Computer Science specializing in Data Analytics at APU, where I have been constantly honing my technical skill set in a fast-paced environment. I am familiar with programming languages such as Python, C and Java, and currently venturing into frontend development using Next.js and React. 
+                    <p className="text-base text-justify lg:text-lg">I am currently a second-year student pursuing a degree in Computer Science specializing in Data Analytics at APU, where I have been constantly honing my technical skill set in a fast-paced environment. I am familiar with programming languages such as Python, C, and Java, and currently venturing into front-end development using Next.js and React. 
                         My passion for technology and problem-solving has led me to actively participate in a hackathon this year, where I primarily serve as a UI/UX designer for my team.</p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}
