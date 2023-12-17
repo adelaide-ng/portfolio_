@@ -6,12 +6,12 @@ const achievementsList = [
         value: "1",
     },
     {
-        metric: "Awards",
-        value: "2+",
+        metric: "Age",
+        value: "21",
     },
     {
-        metric: "Years",
-        value: "1",
+        metric: "MBTI",
+        value: "INTP",
     }
 
 ];
