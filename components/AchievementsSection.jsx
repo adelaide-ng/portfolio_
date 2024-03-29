@@ -3,15 +3,15 @@ import React from "react";
 const achievementsList = [
     {
         metric: "Projects",
-        value: "1",
+        value: "1+",
     },
     {
-        metric: "Age",
-        value: "21",
+        metric: "Awards",
+        value: "2+",
     },
     {
-        metric: "MBTI",
-        value: "INTP",
+        metric: "Years",
+        value: "2",
     }
 
 ];
