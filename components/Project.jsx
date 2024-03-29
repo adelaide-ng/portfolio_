@@ -6,10 +6,44 @@ const projectData = [
     {
         id: 1,
         title: "ecowear",
-        description: "This is a project for ETHKL.",
-        image: "/projects/zkJom.png",
+        description: "This is a project for ETHKL 2023.",
+        image: "/projects/ethkl.png",
         gitUrl: "https://github.com/adelaide-ng/ethkl-ecowear"
+
     },
+    {
+        id: 2,
+        title: "Coming Soon",
+        description: "This is a future project.",
+        image: "/projects/comingsoon.jpeg",
+        gitUrl: ""
+    },
+    {
+        id: 3,
+        title: "Coming Soon",
+        description: "This is a future project.",
+        image: "/projects/comingsoon.jpeg",
+        gitUrl: ""
+    },
+    {
+        id: 4,
+        title: "Coming Soon",
+        description: "This is a future project.",
+        image: "/projects/comingsoon.jpeg",
+        gitUrl: ""
+    }, {
+        id: 5,
+        title: "Coming Soon",
+        description: "This is a future project.",
+        image: "/projects/comingsoon.jpeg",
+        gitUrl: ""
+    }, {
+        id: 6,
+        title: "Coming Soon",
+        description: "This is a future project.",
+        image: "/projects/comingsoon.jpeg",
+        gitUrl: ""
+    }, 
 ];
 
 const Projects = () => {
