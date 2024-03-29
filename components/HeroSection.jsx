@@ -18,7 +18,7 @@ const HeroSection = () => {
             {/* span text seperator -- for design*/}
             <span className="text-white text-8xl ">
               Hello, I&apos;m{" "}
-              <span className="text-transparent bg-clip-text sm:text-8xl md:text-9xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+              <span className="text-transparent bg-clip-text sm:text-8xl md:text-9xl bg-gradient-to-r from-blue-500 via-green-500 to-yellow-500">
                 Adelaide
               </span>
             </span>
@@ -31,10 +31,10 @@ const HeroSection = () => {
                   loop: true,
                 }}
                 onInit={(typewriter) => {
-                  typewriter.typeString`<span style="color:#FF77FF">Data Analyst</span>`
+                  typewriter.typeString`<span style="color:#FF77FF">Data Analytics Student</span>`
                     .pauseFor(1500)
                     .deleteAll()
-                    .typeString`<span style="color:#9E7BFF">Designer</span>`
+                    .typeString`<span style="color:#9E7BFF">Graphic Designer</span>`
                     .pauseFor(1500)
                     .deleteAll()
                     .typeString`<span style="color:#893BFF">Front-End Developer</span>`

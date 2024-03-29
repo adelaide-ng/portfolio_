@@ -14,12 +14,10 @@ const EmailSection = () => {
     >
       <div className="z-10">
         <h5 className="text-4xl font-bold text-white my-2 ">
-          Let&apos;s Connect
+          Let&apos;s Connect!
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md mt-8 text-justify">
-          I&apos;m currently looking for new opportunities, my inbox is always
-          open. Whether you have a question or just want to say hi, I&apos;ll
-          try my best to get back to you!
+          I&apos;m always looking for new opportunities, and my inbox is always open! ˙ᵕ˙
         </p>
         <h4 className="pb-3 mt-6">Let&apos;s get in touch!</h4>
         <div className=" flex flex-row gap-4 mt-6">
