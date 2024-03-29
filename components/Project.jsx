@@ -6,7 +6,7 @@ const projectData = [
     {
         id: 1,
         title: "ecowear",
-        description: "This is a project for ETHKL 2023.",
+        description: "This is a project for ETHKL 2023, which focuses on integrating zero-knowledge proof technology.",
         image: "/projects/ethkl.png",
         gitUrl: "https://github.com/adelaide-ng/ethkl-ecowear"
 

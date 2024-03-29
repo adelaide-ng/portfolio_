@@ -36,8 +36,8 @@ const TAB_DATA = [
         id: "education",
         content: (
           <ul className="list-disc pl-2">
-                <li>Asia Pacific University of Technology and Innovation</li>
-                <li>Kolej Tingkatan Enam Petaling Jaya</li>
+                <li>Asia Pacific University of Technology and Innovation &#40;APU&#41;</li>
+                <li>Kolej Tingkatan Enam Petaling Jaya &#40;KTEPJ&#41;</li>
                 <li>SMK Seafield</li>
           </ul>
         ),
