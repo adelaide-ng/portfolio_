@@ -59,7 +59,14 @@ const HeroSection = () => {
             href="https://drive.google.com/file/d/1WwWCf2ZHT7wwi_csUhk5HoVhriqwMwc8/view?usp=drive_link"
             className="px-6 inline-block py-3 rounded-full mr-4 border-solid border-2  border-pink-500 hover:bg-pink-400"
           >
-            <span className="text-xl text-white">View my Resume</span>
+            <span className="text-xl text-white">View My Resume</span>
+          </Link>
+
+          <Link
+            href="https://drive.google.com/drive/folders/1HdaGsOs61Pk2TVvLr8fo-sE-0ocUlW75?usp=sharing"
+            className="px-12 mb-4 inline-block py-3 rounded-full mr-4 border-solid border-2 border-indigo-600 hover:bg-violet-600"
+          >
+            <span className="text-xl text-white">View My Portfolio</span>
           </Link>
         </motion.div>
         <div className="col-span-4 md:col-span-4 place-self-center mt-12 lg:mt-0 pt-0 lg:pt-24">
